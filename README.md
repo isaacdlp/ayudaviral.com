@@ -11,7 +11,5 @@ Website del Proyecto [Ayudaviral.com](https://ayudaviral.com)
 
 ## Tareas Pendientes
 
-* Publicar el nuevo vídeo de Blanca
-* Comprimir las imágenes
-* Limpiar el código HTML
+* Publicar el nuevo vídeo
 * Diseñar el logo de Ayuda Viral
