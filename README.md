@@ -9,7 +9,9 @@ Paleta de colores:
 * Negro (#484848)
 * Violeta (#f32853)
 
-Fuente de texto [Raleway](https://fonts.google.com/specimen/Raleway)
+Elementos:
+* Fuente de texto [Raleway](https://fonts.google.com/specimen/Raleway)
+* Música ambiental [One Story](https://www.adamvitovsky.com/one-story)
 
 ## Recursos
 
