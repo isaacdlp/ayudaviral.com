@@ -66,6 +66,20 @@
 		font-size: 1.25em;
 	}
 
+	span.logo {
+		font-weight: bold;
+		font-size: 1.2em;
+	}
+
+	span.logo span.min {
+		font-size: 0.8em;
+	}
+
+	span.logo span.com {
+		font-weight: normal;
+		font-size: 0.6em;
+	}
+
 	header.right {
 		text-align: right;
 	}

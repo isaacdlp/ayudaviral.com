@@ -1,6 +1,16 @@
 # ayudaviral.com
 Website de la iniciativa [Ayuda Viral](https://ayudaviral.com)
 
+## Diseño
+
+Paleta de colores:
+* Blanco (#ffffff)
+* Gris (#aaaaaa)
+* Negro (#484848)
+* Violeta (#f32853)
+
+Fuente de texto [Raleway](https://fonts.google.com/specimen/Raleway)
+
 ## Recursos
 
 * [YouTube](https://studio.youtube.com/channel/UCpLB8xaPPJuYoWmhEhtf1sA/videos)
