@@ -3316,3 +3316,23 @@
 		}
 
 	}
+
+/* ALERTS */
+
+h2.alert {
+	margin-bottom: 30px !important;
+	font-size: 1.6em !important;
+	font-weight: normal;
+	color:white;
+	width: 60%;
+	text-transform: none;
+}
+
+@media screen and (max-width: 736px) {
+
+	h2.alert {
+		width: 90%;
+		font-size: 1.4em !important;
+	}
+
+}

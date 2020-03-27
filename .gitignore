@@ -1,3 +1,4 @@
 # Exclusions
 .idea
+.DS_Store
 store
