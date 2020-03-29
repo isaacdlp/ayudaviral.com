@@ -14,6 +14,8 @@ Elementos:
 * Fuente de texto [Raleway](https://fonts.google.com/specimen/Raleway)
 * Música ambiental [One Story](https://www.adamvitovsky.com/one-story)
 
+Codificación Vídeos Handbrake 'Android 576p25'
+
 ## Recursos
 
 * [Name DNS](https://www.name.com)
